@@ -19,7 +19,7 @@ h3{
 	font-size: 20px;
 			font-weight: normal;
 			font: normal;
-			color: 9E3ACA;
+			color: red;
 
 }
 h4{
@@ -28,12 +28,7 @@ h4{
 			font: normal;
 			color: 9E3ACA;
 }
-h5{
-	font-size: 20px;
-			font-weight: normal;
-			font: normal;
-			color: 9E3ACA;
-}
+
 li{
 	color: blue;
 	text-align: left;
@@ -48,9 +43,9 @@ li{
 
 #p2{
 	font-size:18px;
-    color: 393D3C;
-    font-weight: Arial;
-    font-style: Arial;
+    color: green;
+    font-weight: italic;
+    font-style: italic;
 
     }
 
